@@ -14,6 +14,8 @@
 		86355476233969F6009D592B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86355474233969F6009D592B /* LaunchScreen.storyboard */; };
 		86355481233969F6009D592B /* NavegacionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86355480233969F6009D592B /* NavegacionTests.swift */; };
 		8635548C233969F6009D592B /* NavegacionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8635548B233969F6009D592B /* NavegacionUITests.swift */; };
+		8635549A233970DF009D592B /* Materia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86355499233970DF009D592B /* Materia.swift */; };
+		8635549C23397220009D592B /* CalificacionesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8635549B23397220009D592B /* CalificacionesController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		86355487233969F6009D592B /* NavegacionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavegacionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8635548B233969F6009D592B /* NavegacionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavegacionUITests.swift; sourceTree = "<group>"; };
 		8635548D233969F6009D592B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		86355499233970DF009D592B /* Materia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Materia.swift; sourceTree = "<group>"; };
+		8635549B23397220009D592B /* CalificacionesController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalificacionesController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				86355472233969F5009D592B /* Assets.xcassets */,
 				86355474233969F6009D592B /* LaunchScreen.storyboard */,
 				86355477233969F6009D592B /* Info.plist */,
+				86355499233970DF009D592B /* Materia.swift */,
+				8635549B23397220009D592B /* CalificacionesController.swift */,
 			);
 			path = Navegacion;
 			sourceTree = "<group>";
@@ -258,6 +264,8 @@
 			files = (
 				8635546E233969F4009D592B /* ViewController.swift in Sources */,
 				8635546C233969F4009D592B /* AppDelegate.swift in Sources */,
+				8635549C23397220009D592B /* CalificacionesController.swift in Sources */,
+				8635549A233970DF009D592B /* Materia.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
