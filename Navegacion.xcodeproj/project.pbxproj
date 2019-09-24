@@ -16,6 +16,7 @@
 		8635548C233969F6009D592B /* NavegacionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8635548B233969F6009D592B /* NavegacionUITests.swift */; };
 		8635549A233970DF009D592B /* Materia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86355499233970DF009D592B /* Materia.swift */; };
 		8635549C23397220009D592B /* CalificacionesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8635549B23397220009D592B /* CalificacionesController.swift */; };
+		86EAF5C5233AB4EC00E43BEB /* DetallesMateriaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86EAF5C4233AB4EC00E43BEB /* DetallesMateriaController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		8635548D233969F6009D592B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		86355499233970DF009D592B /* Materia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Materia.swift; sourceTree = "<group>"; };
 		8635549B23397220009D592B /* CalificacionesController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalificacionesController.swift; sourceTree = "<group>"; };
+		86EAF5C4233AB4EC00E43BEB /* DetallesMateriaController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetallesMateriaController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				86355477233969F6009D592B /* Info.plist */,
 				86355499233970DF009D592B /* Materia.swift */,
 				8635549B23397220009D592B /* CalificacionesController.swift */,
+				86EAF5C4233AB4EC00E43BEB /* DetallesMateriaController.swift */,
 			);
 			path = Navegacion;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				8635546E233969F4009D592B /* ViewController.swift in Sources */,
 				8635546C233969F4009D592B /* AppDelegate.swift in Sources */,
 				8635549C23397220009D592B /* CalificacionesController.swift in Sources */,
+				86EAF5C5233AB4EC00E43BEB /* DetallesMateriaController.swift in Sources */,
 				8635549A233970DF009D592B /* Materia.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
